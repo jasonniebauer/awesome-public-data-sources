@@ -28,8 +28,8 @@ This is a living collection of reliable places to find datasets, from general pl
 ## Government & Public Sector
 - [data.gov](https://www.data.gov/) — The home of the U.S. Government's open data (300k+ datasets).
 - [USAFacts](https://usafacts.org/) — Non-partisan data on U.S. economy, population, health, etc.
-- [European Data Portal](https://data.europa.eu/) — Aggregates open data from EU countries.
 - [USAspending.gov](https://www.usaspending.gov/) — U.S. government's primary portal for federal spending transparency, covering contracts, grants, loans, and awards with searchable/downloadable data and APIs.
+- [European Data Portal](https://data.europa.eu/) — Aggregates open data from EU countries.
 
 ## Health & Medicine
 - [CDC Data & Statistics](https://www.cdc.gov/datastatistics/index.html) — Public health datasets from the Centers for Disease Control.
