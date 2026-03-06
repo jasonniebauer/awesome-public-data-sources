@@ -24,6 +24,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - [data.world](https://data.world/) — Collaborative platform for finding, sharing, and querying datasets.
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) — Classic ML datasets.
 - [Huwise Hub](https://hub.huwise.com/pages/home/) — Public open data portal hosting thousands of free, curated datasets (government, health, geospatial, etc.) with visualization tools, APIs, and self-service access.
+- [World Bank Open Data](https://data.worldbank.org/) — Free and open access to global development data.
 
 ## Government & Public Sector
 - [data.gov](https://www.data.gov/) — The home of the U.S. Government's open data (300k+ datasets).
