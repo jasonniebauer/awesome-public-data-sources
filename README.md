@@ -21,7 +21,7 @@ This is a living collection of reliable places to find datasets, from general pl
 ## General / Aggregators
 - [Kaggle](https://www.kaggle.com/datasets) — Massive community-driven dataset hub with competitions and notebooks.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) — Search engine across thousands of open data repositories.
-- [Google BigQuery Datasets](https://cloud.google.com/datasets) — a wide variety of public datasets through its Public Dataset Program.
+- [Google BigQuery Datasets](https://cloud.google.com/datasets) — Wide variety of public datasets through its Public Dataset Program.
 - [data.world](https://data.world/) — Collaborative platform for finding, sharing, and querying datasets.
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) — Classic ML datasets.
 - [Huwise Hub](https://hub.huwise.com/pages/home/) — Public open data portal hosting thousands of free, curated datasets (government, health, geospatial, etc.) with visualization tools, APIs, and self-service access.
