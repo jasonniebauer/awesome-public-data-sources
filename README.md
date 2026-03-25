@@ -57,7 +57,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - Submit a pull request to add a source.
 
 ## Other / Niche
-- Submit a pull request to add a source.
+- [OpenAQ](https://openaq.org/) — Global air quality data.
 
 ## Contributing
 Contributions are welcome! Submit a pull request.
