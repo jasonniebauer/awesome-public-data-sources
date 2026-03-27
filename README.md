@@ -19,19 +19,18 @@ This is a living collection of reliable places to find datasets, from general pl
 - [License](#license)
 
 ## General / Aggregators
-- [Kaggle](https://www.kaggle.com/datasets) — Massive community-driven dataset hub with competitions and notebooks.
+- [data.world](https://data.world/) — Collaborative platform for finding, sharing, and querying datasets.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) — Search engine across thousands of open data repositories.
 - [Google BigQuery Datasets](https://cloud.google.com/datasets) — Wide variety of public datasets through its Public Dataset Program.
-- [data.world](https://data.world/) — Collaborative platform for finding, sharing, and querying datasets.
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) — Classic ML datasets.
 - [Huwise Hub](https://hub.huwise.com/pages/home/) — Public open data portal hosting thousands of free, curated datasets (government, health, geospatial, etc.) with visualization tools, APIs, and self-service access.
+- [Kaggle](https://www.kaggle.com/datasets) — Massive community-driven dataset hub with competitions and notebooks.
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) — Classic ML datasets.
 - [World Bank Open Data](https://data.worldbank.org/) — Free and open access to global development data.
 
 ## Government & Public Sector
 - [data.gov](https://www.data.gov/) — The home of the U.S. Government's open data (300k+ datasets).
 - [USAFacts](https://usafacts.org/) — Non-partisan data on U.S. economy, population, health, etc.
 - [USAspending.gov](https://www.usaspending.gov/) — U.S. government's primary portal for federal spending transparency, covering contracts, grants, loans, and awards with searchable/downloadable data and APIs.
-- [European Data Portal](https://data.europa.eu/) — Aggregates open data from EU countries.
 
 ## Health & Medicine
 - [CDC Data & Statistics](https://www.cdc.gov/datastatistics/index.html) — Public health datasets from the Centers for Disease Control.
