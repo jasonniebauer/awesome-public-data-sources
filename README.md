@@ -36,6 +36,7 @@ This is a living collection of reliable places to find datasets, from general pl
 ## Health & Medicine
 - [CDC Data & Statistics](https://www.cdc.gov/datastatistics/index.html) — Public health datasets from the Centers for Disease Control.
 - [CMS Data](https://data.cms.gov) — Public datasets from the Center for Medicare and Medicaid Services.
+- [Health Data](https://healthdata.gov) — Public datasets from the Department of Health and Human Services (HHS).
 - [HHS Open Data](https://cdo.hhs.gov/s/open-data) — U.S. Department of Health and Human Services open data portal.
 - [WHO Global Health Observatory](https://www.who.int/data/gho) — Global health statistics.
 
