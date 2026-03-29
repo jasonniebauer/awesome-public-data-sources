@@ -29,6 +29,7 @@ This is a living collection of reliable places to find datasets, from general pl
 
 ## Government & Public Sector
 - [data.gov](https://www.data.gov/) — The home of the U.S. Government's open data (300k+ datasets).
+- [Data USA](https://datausa.io/) — Free platform that allows users to collect, analyze, and visualize shared U.S. government data.
 - [USAFacts](https://usafacts.org/) — Non-partisan data on U.S. economy, population, health, etc.
 - [USAspending.gov](https://www.usaspending.gov/) — U.S. government's primary portal for federal spending transparency, covering contracts, grants, loans, and awards with searchable/downloadable data and APIs.
 
