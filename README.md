@@ -60,6 +60,7 @@ This is a living collection of reliable places to find datasets, from general pl
 
 ## Other / Niche
 - [OpenAQ](https://openaq.org/) — Global air quality data.
+- [RecentProfit Data Research](https://recentprofit.com/data-research) — MIT-licensed CSV and JSON datasets of U.S. brand discounts, shipping, returns, warranties, and other purchase conditions with official-source citations.
 
 ## Contributing
 Contributions are welcome! Submit a pull request.
