@@ -60,6 +60,7 @@ This is a living collection of reliable places to find datasets, from general pl
 
 ## Other / Niche
 - [OpenAQ](https://openaq.org/) — Global air quality data.
+- [Reboot Hub Data](https://reboot-hub.com/pages/reboot-hub-data) — Free CC BY 4.0 drone catalog data and methodology, including a Q3 2026 snapshot of 43 model-level price aggregates from 251 configurations; one retailer's listed prices, not transactions or a market-wide index.
 
 ## Contributing
 Contributions are welcome! Submit a pull request.
