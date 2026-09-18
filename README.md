@@ -60,6 +60,7 @@ This is a living collection of reliable places to find datasets, from general pl
 
 ## Other / Niche
 - [OpenAQ](https://openaq.org/) — Global air quality data.
+- [Dupedex Research](https://dupedex.com/research/fragrance-dupe-market-census-2026/) — Free CC BY 4.0 JSON/CSV aggregate statistics on six fragrance clone-house catalogues, price medians, bottle sizes and merchant-stated comparisons, with observation dates and methodology.
 
 ## Contributing
 Contributions are welcome! Submit a pull request.
