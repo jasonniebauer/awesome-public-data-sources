@@ -41,6 +41,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - [WHO Global Health Observatory](https://www.who.int/data/gho) — Global health statistics.
 
 ## Finance & Economics
+- [JMM Research economic release calendar](https://jmmresearch.com/data/economic-release-calendar/) — Free CSV of official U.S. and Canadian economic release dates, UTC timestamps, and links to publisher schedules.
 - Submit a pull request to add a source.
 
 ## Science & Research
