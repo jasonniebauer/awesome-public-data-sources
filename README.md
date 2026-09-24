@@ -56,7 +56,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - Submit a pull request to add a source.
 
 ## APIs & Real-Time Data
-- Submit a pull request to add a source.
+- [HostDealRadar](https://hostdealradar.com/ai/) — Source-linked hosting price and provider records available through a public API and downloadable evidence repository.
 
 ## Other / Niche
 - [OpenAQ](https://openaq.org/) — Global air quality data.
