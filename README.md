@@ -41,7 +41,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - [WHO Global Health Observatory](https://www.who.int/data/gho) — Global health statistics.
 
 ## Finance & Economics
-- Submit a pull request to add a source.
+- [Invokely](https://invokely.ai/docs) - Query cited official statistics for U.S. states and counties, EU regions, Spanish municipalities, and World Bank baseline series for every country and the world through a hosted MCP server; coverage varies by indicator, and its free plan includes 500 MCP calls per month plus a no-account MCP trial of 25 calls per day per IP.
 
 ## Science & Research
 - Submit a pull request to add a source.
