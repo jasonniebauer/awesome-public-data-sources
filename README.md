@@ -41,7 +41,8 @@ This is a living collection of reliable places to find datasets, from general pl
 - [WHO Global Health Observatory](https://www.who.int/data/gho) — Global health statistics.
 
 ## Finance & Economics
-- Submit a pull request to add a source.
+- [Resimanor South Korea Housing Finance Data](https://resimanor.com/housing-finance-dsr-data/) — Open South Korean housing-finance reference datasets covering stress DSR mortgage-limit scenarios with CSV/JSON, methodology, and official-source references.
+- [AptToSell South Korea Housing Subscription Data](https://apttosell.com/housing-subscription-data/) — Open South Korean housing-subscription reference data covering the private-housing 84-point score structure and regional deposit requirements with downloadable resources and methodology notes.
 
 ## Science & Research
 - Submit a pull request to add a source.
