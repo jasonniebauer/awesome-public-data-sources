@@ -59,6 +59,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - Submit a pull request to add a source.
 
 ## Other / Niche
+- [No Stairs Please](https://nostairsplease.com/) — Live-music venue accessibility, stage, sound, load-in, and booking-contact dataset across North America.
 - [OpenAQ](https://openaq.org/) — Global air quality data.
 
 ## Contributing
