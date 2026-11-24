@@ -47,7 +47,7 @@ This is a living collection of reliable places to find datasets, from general pl
 - Submit a pull request to add a source.
 
 ## Geospatial & Environment
-- Submit a pull request to add a source.
+- [H1DR4 Incident Map](https://h1dr4.dev/map) — Free public viewer for exploring reported incidents geographically, including approximate locations from Police.uk open data.
 
 ## Social Sciences & Demographics
 - Submit a pull request to add a source.
